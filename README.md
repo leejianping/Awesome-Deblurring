@@ -67,7 +67,7 @@
 |2016|CVPR|[Blind image deblurring using dark channel prior](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)|[Code & Project page](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)|
 |2016|CVPR|[Robust Kernel Estimation with Outliers Handling for Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2016/html/Pan_Robust_Kernel_Estimation_CVPR_2016_paper.html)|[Code](https://www.dropbox.com/s/hz9qmi8ar1k1zn0/pcode.zip?dl=0)|
 |2016|CVPR|[Blind image deconvolution by automatic gradient activation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.pdf)||
-|2017|CVPR|[Image deblurring via extreme channels prior](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)|[Code & Project page](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)|
+|2017|CVPR|[Image deblurring via extreme channels prior](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)|[Code & Project page](https://github.com/typeisgod/ECP)|
 |2017|CVPR|[From local to global: Edge profiles to camera motion in blurred images](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)|[Project page & Results-on-benchmark-datasets](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)|
 |2017|ICCV|[Blind Image Deblurring with Outlier Handling](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Blind_Image_Deblurring_ICCV_2017_paper.pdf)|[Code](https://www.dropbox.com/s/qmxkkwgnmuwrfoj/code_iccv2017_outlier.zip?dl=0)|
 |2017|ICCV|[Self-paced Kernel Estimation for Robust Blind Image Deblurring](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gong_Self-Paced_Kernel_Estimation_ICCV_2017_paper.pdf)|[Code](https://donggong1.github.io/publications.html),[Results](https://drive.google.com/open?id=1gP_s-87js7KKFrIzAlushc1HJqEogR1L)|
@@ -83,6 +83,7 @@
 |2020|ECCV|[OID: Outlier Identifying and Discarding in Blind Image Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)|[Code&Data](https://liangchen527.github.io/)|
 |2020|ECCV|[Enhanced Sparse Model for Blind Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf)|[Code](https://liangchen527.github.io/)|
 |2021|CVPR|[Blind Deblurring for Saturated Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.pdf)|[Code&Data](https://liangchen527.github.io/)|
+|2021|TPAMI|[Blind Deblurring of Barcodes via Kullback-Leibler Divergence](https://ieeexplore.ieee.org/abstract/document/8758192)||
 |2021|TCI|[Polyblur: Removing mild blur by polynomial reblurring](https://arxiv.org/abs/2012.09322)||
 |2021|SPIC|[Fast blind deconvolution using a deeper sparse patch-wise maximum gradient prior](https://www.sciencedirect.com/science/article/pii/S0923596520301910)||
 |2021|TCSVT|[Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://128.84.21.199/abs/1906.06642v3)|[Code](https://github.com/FWen/deblur-pmp)|
